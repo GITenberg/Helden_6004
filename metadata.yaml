@@ -1,0 +1,33 @@
+_repo: Helden_6004
+alternative_title: Arms and the man. German
+creator:
+  author:
+    agent_name: Shaw, Bernard
+    alias: Shaw, George Bernard
+    birthdate: 1856
+    deathdate: 1950
+    gutenberg_agent_id: '467'
+    url: http://www.gutenberg.org/2009/agents/467
+    wikipedia: http://en.wikipedia.org/wiki/George_Bernard_Shaw
+description: 'Translation of: Arms and the man.'
+gutenberg_bookshelf: DE Drama
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6004'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Soldiers -- Bulgaria -- Drama'
+- !lcsh 'Man-woman relationships -- Drama'
+- !lcsh 'War -- Drama'
+- !lcc 'PR'
+- !lcsh 'Bulgaria -- Drama'
+- !lcsh 'English drama -- Translations into German'
+- !lcsh 'Italians -- Bulgaria -- Drama'
+- !lcsh 'Love -- Drama'
+- !lcsh 'Serbo-Bulgarian War, 1885 -- Drama'
+title: Helden
+url: http://www.gutenberg.org/ebooks/6004
