@@ -1,5 +1,5 @@
 _repo: Helden_6004
-_version: 0.2.0
+_version: 0.2.1
 alternative_title: Arms and the man. German
 covers:
 - cover_type: generated
@@ -35,5 +35,6 @@ subjects:
 - !lcsh 'Italians -- Bulgaria -- Drama'
 - !lcsh 'Love -- Drama'
 - !lcsh 'Serbo-Bulgarian War, 1885 -- Drama'
+- GITenberg
 title: Helden
 url: http://www.gutenberg.org/ebooks/6004
